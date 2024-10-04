@@ -14,10 +14,10 @@ I dati a disposizione devono essere filtrati per
 *	Le claim devono essere del tipo ZW01, ZW02 e ZW06
 *	Sul campo part_number_des andremo a selezionare i seguenti:
 	- ECONOMY
-  - ECONOMY50
-  - E1
-  - E2
-  - E3 
+ 	- ECONOMY50
+  	- E1
+  	- E2
+  	- E3 
 
 
 Di seguito le versioni utilizzate:
