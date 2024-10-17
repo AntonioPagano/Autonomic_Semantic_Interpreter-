@@ -33,4 +33,4 @@ La pipeline è definita tramite jupyter notebook nel seguente ordine:
 *  <b/>05_analysis_anomaly_detection.ipynb </b>- Analisi degli outlier e comprensione delle features/valori che impattano sulle anomalie
 
 La soluzione applicata è riportata brevemente di seguito:
-![ML_Solution](img/MLSolution.png)
+![ML_Solution](./img/MLSolution.PNG)
