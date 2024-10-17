@@ -31,3 +31,6 @@ La pipeline è definita tramite jupyter notebook nel seguente ordine:
 *  <b/>03_features_engineering.ipynb </b>- Creazione di nuove features e trasformazione delle variabili categoriche
 *  <b/>04_PCA_and_anomaly_detection.ipynb</b> - Applicazione degli algoritmi di ML (PCA + IsolationForest) per individuare gli outlier
 *  <b/>05_analysis_anomaly_detection.ipynb </b>- Analisi degli outlier e comprensione delle features/valori che impattano sulle anomalie
+
+La soluzione applicata è riportata brevemente di seguito:
+![ML_Solution](img/MLSolution.png)
