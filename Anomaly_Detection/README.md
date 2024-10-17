@@ -20,6 +20,7 @@ I dati a disposizione devono essere filtrati per
   	- E3 
 
 
+#### Soluzione
 Di seguito le versioni utilizzate:
 - <b/>Python Version: "3.10.5" </b>
 - <b/>Java Version: "1.8.0_421" </b>
