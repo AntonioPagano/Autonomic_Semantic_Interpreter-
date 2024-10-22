@@ -13,3 +13,7 @@ Questo repository contiene alcuni progetti di machine learning e AI su cui ho la
 ### 2. **SemanticInterpreter**
    - **Descrizione:** Un progetto che implementa una soluzione RAG (Retrieval-Augmented Generation) in PySpark, utilizzando embedding di frasi con BERT, PCA e clustering, seguito da analisi con TF-IDF per estrarre argomenti comuni.
    - **Tecnologie utilizzate:** PySpark, Spark NLP, BERT, PCA, clustering, TF-IDF.
+
+### 3. **Traffic Prediction Serie A**
+   - **Descrizione:** Un progetto che implementa una soluzione RNN (Recurrent Neural Network) in Keras, utilizzando una rete neurale LSTM per predirre il traffico di rete per provincia italiana, in grado di prevedere picchi di traffico durante le partite di serie A
+   - **Tecnologie utilizzate:** Python, Pandas, Keras, Tensorflow
