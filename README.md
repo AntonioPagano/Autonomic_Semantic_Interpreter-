@@ -17,3 +17,7 @@ Questo repository contiene alcuni progetti di machine learning e AI su cui ho la
 ### 3. **Traffic Prediction Serie A**
    - **Descrizione:** Un progetto che implementa una soluzione RNN (Recurrent Neural Network) in Keras, utilizzando una rete neurale LSTM per predirre il traffico di rete per provincia italiana, in grado di prevedere picchi di traffico durante le partite di serie A
    - **Tecnologie utilizzate:** Python, Pandas, Keras, Tensorflow
+
+### 4. **Wine Quality and Type Classification**
+   - **Descrizione:** Un progetto che implementa una soluzione in Keras, utilizzando una rete neurale classica per predirre due variabili: Quality del vino (regressione) e Tipo di vino (classificazione binaria)
+   - **Tecnologie utilizzate:** Python, Pandas, Keras, Tensorflow
